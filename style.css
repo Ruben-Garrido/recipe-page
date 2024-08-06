@@ -93,6 +93,7 @@ h1 {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
+    border: #333;
     background-color: hsl(330, 100%, 98%);
 }
 
