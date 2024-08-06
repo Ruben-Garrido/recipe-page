@@ -182,7 +182,6 @@ inferior, tiene un funcionamiento igual al if*/
 @media (max-width: 768px) {
     .pageBody {
         margin: 0; /* Elimina los márgenes */
-        margin-left: 1rem;
         width: 100%; /* Toma el 100% del ancho */
         border-radius: 0; /* Elimina el border-radius */
     }
